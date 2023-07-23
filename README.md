@@ -108,7 +108,7 @@ You have to those tools in your local machine.
 Clone the project using the following bash command in an appropriate location.
 
 ```bash
-#   git clone git@github.com:kaium_uddin/portfolio.git
+  git clone https://github.com/kaiumuddin/portfolio.git
 ```
 
 Go to the project directory.
